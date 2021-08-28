@@ -21,7 +21,6 @@
 </p>
 
 ### Here is the high level of who I am
-- 🔭 I’m currently working on tools in FinTech
 - 🌱 I’m currently learning design systems and serverless technology
 - 👯 I’m looking to collaborate on tools that empower consumers
 
